@@ -1,6 +1,6 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="..." src="./img/text-1659378586387.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="..." src="https://res.cloudinary.com/dse168gst/image/upload/v1659380433/githudreadmeimg/text-1659378586387_ewrvwi.png" /></a></p>
 <br/>
-<p align="center"><a href="https://anuraghazra.github.io"><img width="40%" alt="..." src="./img/text-1659378606549.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="40%" alt="..." src="https://res.cloudinary.com/dse168gst/image/upload/v1659380433/githudreadmeimg/text-1659378606549_vjbddo.png" /></a></p>
 <br/>
 **About me** :v::v::v::v:
 
